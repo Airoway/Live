@@ -99,6 +99,30 @@ http://[2409:8087:74f0:22::23]:6610/270000001128/9900000030/index.m3u8?
 http://[2409:8087:74f0:22::100e]:6610/270000001128/9900000521/index.m3u8?
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://[2409:8087:74f0:22::35]:6610/270000001128/9900000044/index.m3u8?
+#EXTINF:-1 tvg-name="陕西新闻" tvg-logo="https://live.fanmingming.com/tv/陕西新闻.png" group-title="陕西",陕西新闻
+http://112.46.85.60:8009/hls/18/index.m3u8
+#EXTINF:-1 tvg-name="陕西都市" tvg-logo="https://live.fanmingming.com/tv/陕西都市.png" group-title="陕西",陕西都市
+http://112.46.85.60:8009/hls/19/index.m3u8
+#EXTINF:-1 tvg-name="陕西生活" tvg-logo="https://live.fanmingming.com/tv/陕西生活.png" group-title="陕西",陕西生活
+http://112.46.85.60:8009/hls/20/index.m3u8
+#EXTINF:-1 tvg-name="陕西影视" tvg-logo="https://live.fanmingming.com/tv/陕西影视.png" group-title="陕西",陕西影视
+http://112.46.85.60:8009/hls/21/index.m3u8
+#EXTINF:-1 tvg-name="陕西公共" tvg-logo="https://live.fanmingming.com/tv/陕西公共.png" group-title="陕西",陕西公共
+http://112.46.85.60:8009/hls/22/index.m3u8
+#EXTINF:-1 tvg-name="陕西体育" tvg-logo="https://live.fanmingming.com/tv/陕西体育.png" group-title="陕西",陕西体育
+http://112.46.85.60:8009/hls/24/index.m3u8
+#EXTINF:-1 tvg-name="西部电影" tvg-logo="https://live.fanmingming.com/tv/西部电影.png" group-title="陕西",西部电影
+http://112.46.85.60:8009/hls/62/index.m3u8
+#EXTINF:-1 tvg-name="西安新闻" tvg-logo="https://live.fanmingming.com/tv/西安新闻.png" group-title="陕西",西安新闻
+http://112.46.85.60:8009/hls/28/index.m3u8
+#EXTINF:-1 tvg-name="西安商务" tvg-logo="https://live.fanmingming.com/tv/西安商务.png" group-title="陕西",西安商务
+http://112.46.85.60:8009/hls/82/index.m3u8
+#EXTINF:-1 tvg-name="延安综合" tvg-logo="https://live.fanmingming.com/tv/延安综合.png" group-title="陕西",延安综合
+http://live.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8
+#EXTINF:-1 tvg-name="延安公共" tvg-logo="https://live.fanmingming.com/tv/延安公共.png" group-title="陕西",延安公共
+http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
+#EXTINF:-1 tvg-name="洛川融媒" tvg-logo="https://live.fanmingming.com/tv/洛川融媒.png" group-title="陕西",洛川融媒
+http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-name="罗翔" tvg-logo="https://live.fanmingming.com/tv/罗翔.png" group-title="影视",罗翔
 http://120.77.28.4:8648/huya.php?id=11601965
 #EXTINF:-1 tvg-name="成龙" tvg-logo="https://live.fanmingming.com/tv/成龙.png" group-title="影视",成龙
@@ -121,12 +145,6 @@ http://120.77.28.4:8648/huya.php?id=11352877
 http://120.77.28.4:8648/huya.php?id=11602043
 #EXTINF:-1 tvg-name="功夫片" tvg-logo="https://live.fanmingming.com/tv/功夫片.png" group-title="影视",功夫片
 http://120.77.28.4:8648/huya.php?id=11352941
-#EXTINF:-1 tvg-name="黑帮片" tvg-logo="https://live.fanmingming.com/tv/黑帮片.png" group-title="影视",黑帮片
-http://120.77.28.4:8648/huya.php?id=11336719
-#EXTINF:-1 tvg-name="战争片" tvg-logo="https://live.fanmingming.com/tv/战争片.png" group-title="影视",战争片
-http://120.77.28.4:8648/huya.php?id=21059574
-#EXTINF:-1 tvg-name="古惑仔" tvg-logo="https://live.fanmingming.com/tv/古惑仔.png" group-title="影视",古惑仔
-http://maomao.kandiantv.cn/yy.php?id=1458015189
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="https://live.fanmingming.com/tv/周星驰.png" group-title="影视",周星驰
 http://120.77.28.4:8648/huya.php?id=11342412
 #EXTINF:-1 tvg-name="周润发" tvg-logo="https://live.fanmingming.com/tv/周润发.png" group-title="影视",周润发
@@ -151,8 +169,6 @@ http://120.77.28.4:8648/huya.php?id=11352935
 http://120.77.28.4:8648/huya.php?id=30080238
 #EXTINF:-1 tvg-name="繁花" tvg-logo="https://live.fanmingming.com/tv/繁花.png" group-title="影视",繁花
 http://120.77.28.4:8648/huya.php?id=21059580
-#EXTINF:-1 tvg-name="天道" tvg-logo="https://live.fanmingming.com/tv/天道.png" group-title="影视",天道
-http://maomao.kandiantv.cn/yy.php?id=1382735574
 #EXTINF:-1 tvg-name="庆余年" tvg-logo="https://live.fanmingming.com/tv/庆余年.png" group-title="影视",庆余年
 http://120.77.28.4:8648/huya.php?id=11352960
 #EXTINF:-1 tvg-name="芈月传" tvg-logo="https://live.fanmingming.com/tv/芈月传.png" group-title="影视",芈月传
@@ -181,8 +197,6 @@ http://120.77.28.4:8648/huya.php?id=23863804
 http://120.77.28.4:8648/huya.php?id=23734256
 #EXTINF:-1 tvg-name="陀枪师姐" tvg-logo="https://live.fanmingming.com/tv/陀枪师姐.png" group-title="影视",陀枪师姐
 http://120.77.28.4:8648/huya.php?id=23860039
-#EXTINF:-1 tvg-name="公主嫁到" tvg-logo="https://live.fanmingming.com/tv/公主嫁到.png" group-title="影视",公主嫁到
-http://maomao.kandiantv.cn/yy.php?id=1382736915
 #EXTINF:-1 tvg-name="小李飞刀" tvg-logo="https://live.fanmingming.com/tv/小李飞刀.png" group-title="影视",小李飞刀
 http://120.77.28.4:8648/huya.php?id=11342417
 #EXTINF:-1 tvg-name="龙门镖局" tvg-logo="https://live.fanmingming.com/tv/龙门镖局.png" group-title="影视",龙门镖局
@@ -193,12 +207,8 @@ http://120.77.28.4:8648/huya.php?id=26355864
 http://120.77.28.4:8648/huya.php?id=11352940
 #EXTINF:-1 tvg-name="士兵突击" tvg-logo="https://live.fanmingming.com/tv/士兵突击.png" group-title="影视",士兵突击
 http://120.77.28.4:8648/huya.php?id=11342430
-#EXTINF:-1 tvg-name="火蓝刀锋" tvg-logo="https://live.fanmingming.com/tv/火蓝刀锋.png" group-title="影视",火蓝刀锋
-http://maomao.kandiantv.cn/yy.php?id=1382737892
 #EXTINF:-1 tvg-name="扫黑风暴" tvg-logo="https://live.fanmingming.com/tv/扫黑风暴.png" group-title="影视",扫黑风暴
 http://120.77.28.4:8648/huya.php?id=11342404
-#EXTINF:-1 tvg-name="血色浪漫" tvg-logo="https://live.fanmingming.com/tv/血色浪漫.png" group-title="影视",血色浪漫
-http://maomao.kandiantv.cn/yy.php?id=1354926676
 #EXTINF:-1 tvg-name="三国演义" tvg-logo="https://live.fanmingming.com/tv/三国演义.png" group-title="影视",三国演义
 http://120.77.28.4:8648/huya.php?id=11602081
 #EXTINF:-1 tvg-name="陈翔六点半" tvg-logo="https://live.fanmingming.com/tv/陈翔六点半.png" group-title="影视",陈翔六点半
@@ -209,12 +219,6 @@ http://120.77.28.4:8648/huya.php?id=26355767
 http://120.77.28.4:8648/huya.php?id=11342403
 #EXTINF:-1 tvg-name="神医喜来乐" tvg-logo="https://live.fanmingming.com/tv/神医喜来乐.png" group-title="影视",神医喜来乐
 http://120.77.28.4:8648/huya.php?id=11601978
-#EXTINF:-1 tvg-name="速度与激情" tvg-logo="https://live.fanmingming.com/tv/速度与激情.png" group-title="影视",速度与激情
-http://maomao.kandiantv.cn/yy.php?id=1382736911
-#EXTINF:-1 tvg-name="小生物的故事" tvg-logo="https://live.fanmingming.com/tv/小生物的故事.png" group-title="影视",小生物的故事
-http://maomao.kandiantv.cn/yy.php?id=1382736834
-#EXTINF:-1 tvg-name="地球上的地狱" tvg-logo="https://live.fanmingming.com/tv/地球上的地狱.png" group-title="影视",地球上的地狱
-http://maomao.kandiantv.cn/yy.php?id=1382736918
 #EXTINF:-1 tvg-name="小鱼儿与花无缺" tvg-logo="https://live.fanmingming.com/tv/小鱼儿与花无缺.png" group-title="影视",小鱼儿与花无缺
 http://120.77.28.4:8648/huya.php?id=29465867
 #EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://live.fanmingming.com/tv/铁齿铜牙纪晓岚.png" group-title="影视",铁齿铜牙纪晓岚
