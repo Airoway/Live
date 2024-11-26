@@ -35,6 +35,10 @@ http://[2409:8087:74f0:22::100d]:6610/270000001128/9900000512/index.m3u8?
 http://[2409:8087:74f0:22::1006]:6610/270000001128/9900000016/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17_农业农村
 http://[2409:8087:74f0:22::101a]:6610/270000001128/9900000513/index.m3u8?
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="卫视",凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="卫视",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:74f0:22::1013]:6610/270000001128/9900000516/index.m3u8?
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
@@ -124,109 +128,109 @@ http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
 #EXTINF:-1 tvg-name="洛川融媒" tvg-logo="https://live.fanmingming.com/tv/洛川融媒.png" group-title="陕西",洛川融媒
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-name="罗翔" tvg-logo="https://live.fanmingming.com/tv/罗翔.png" group-title="影视",罗翔
-http://120.77.28.4:8648/huya.php?id=11601965
+http://159.75.85.63:35455/huya/11601965
 #EXTINF:-1 tvg-name="成龙" tvg-logo="https://live.fanmingming.com/tv/成龙.png" group-title="影视",成龙
-http://120.77.28.4:8648/huya.php?id=11342386
+http://159.75.85.63:35455/huya/11342386
 #EXTINF:-1 tvg-name="王晶" tvg-logo="https://live.fanmingming.com/tv/王晶.png" group-title="影视",王晶
-http://120.77.28.4:8648/huya.php?id=11602058
+http://159.75.85.63:35455/huya/11602058
 #EXTINF:-1 tvg-name="沈腾" tvg-logo="https://live.fanmingming.com/tv/沈腾.png" group-title="影视",沈腾
-http://120.77.28.4:8648/huya.php?id=11601968
+http://159.75.85.63:35455/huya/11601968
 #EXTINF:-1 tvg-name="黄渤" tvg-logo="https://live.fanmingming.com/tv/黄渤.png" group-title="影视",黄渤
-http://120.77.28.4:8648/huya.php?id=11352876
+http://159.75.85.63:35455/huya/11352876
 #EXTINF:-1 tvg-name="徐克" tvg-logo="https://live.fanmingming.com/tv/徐克.png" group-title="影视",徐克
-http://120.77.28.4:8648/huya.php?id=11352909
+http://159.75.85.63:35455/huya/11352909
 #EXTINF:-1 tvg-name="强森" tvg-logo="https://live.fanmingming.com/tv/强森.png" group-title="影视",强森
-http://120.77.28.4:8648/huya.php?id=21059581
+http://159.75.85.63:35455/huya/21059581
 #EXTINF:-1 tvg-name="贺岁" tvg-logo="https://live.fanmingming.com/tv/贺岁.png" group-title="影视",贺岁
-http://120.77.28.4:8648/huya.php?id=11601971
+http://159.75.85.63:35455/huya/11601971
 #EXTINF:-1 tvg-name="喜剧" tvg-logo="https://live.fanmingming.com/tv/喜剧.png" group-title="影视",喜剧
-http://120.77.28.4:8648/huya.php?id=11352877
+http://159.75.85.63:35455/huya/11352877
 #EXTINF:-1 tvg-name="港片" tvg-logo="https://live.fanmingming.com/tv/港片.png" group-title="影视",港片
-http://120.77.28.4:8648/huya.php?id=11602043
+http://159.75.85.63:35455/huya/11602043
 #EXTINF:-1 tvg-name="功夫片" tvg-logo="https://live.fanmingming.com/tv/功夫片.png" group-title="影视",功夫片
-http://120.77.28.4:8648/huya.php?id=11352941
+http://159.75.85.63:35455/huya/11352941
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="https://live.fanmingming.com/tv/周星驰.png" group-title="影视",周星驰
-http://120.77.28.4:8648/huya.php?id=11342412
+http://159.75.85.63:35455/huya/11342412
 #EXTINF:-1 tvg-name="周润发" tvg-logo="https://live.fanmingming.com/tv/周润发.png" group-title="影视",周润发
-http://120.77.28.4:8648/huya.php?id=11342387
+http://159.75.85.63:35455/huya/11342387
 #EXTINF:-1 tvg-name="林正英" tvg-logo="https://live.fanmingming.com/tv/林正英.png" group-title="影视",林正英
-http://120.77.28.4:8648/huya.php?id=11342421
+http://159.75.85.63:35455/huya/11342421
 #EXTINF:-1 tvg-name="李连杰" tvg-logo="https://live.fanmingming.com/tv/李连杰.png" group-title="影视",李连杰
-http://120.77.28.4:8648/huya.php?id=11342390
+http://159.75.85.63:35455/huya/11342390
 #EXTINF:-1 tvg-name="古天乐" tvg-logo="https://live.fanmingming.com/tv/古天乐.png" group-title="影视",古天乐
-http://120.77.28.4:8648/huya.php?id=29982675
+http://159.75.85.63:35455/huya/29982675
 #EXTINF:-1 tvg-name="洪金宝" tvg-logo="https://live.fanmingming.com/tv/洪金宝.png" group-title="影视",洪金宝
-http://120.77.28.4:8648/huya.php?id=11279251
+http://159.75.85.63:35455/huya/11279251
 #EXTINF:-1 tvg-name="梁家辉" tvg-logo="https://live.fanmingming.com/tv/梁家辉.png" group-title="影视",梁家辉
-http://120.77.28.4:8648/huya.php?id=11342429
+http://159.75.85.63:35455/huya/11342429
 #EXTINF:-1 tvg-name="刘德华" tvg-logo="https://live.fanmingming.com/tv/刘德华.png" group-title="影视",刘德华
-http://120.77.28.4:8648/huya.php?id=11342424
+http://159.75.85.63:35455/huya/11342424
 #EXTINF:-1 tvg-name="斯坦森" tvg-logo="https://live.fanmingming.com/tv/斯坦森.png" group-title="影视",斯坦森
-http://120.77.28.4:8648/huya.php?id=21059588
+http://159.75.85.63:35455/huya/21059588
 #EXTINF:-1 tvg-name="甄子丹" tvg-logo="https://live.fanmingming.com/tv/甄子丹.png" group-title="影视",甄子丹
-http://120.77.28.4:8648/huya.php?id=11352935
+http://159.75.85.63:35455/huya/11352935
 #EXTINF:-1 tvg-name="亮剑" tvg-logo="https://live.fanmingming.com/tv/亮剑.png" group-title="影视",亮剑
-http://120.77.28.4:8648/huya.php?id=30080238
+http://159.75.85.63:35455/huya/30080238
 #EXTINF:-1 tvg-name="繁花" tvg-logo="https://live.fanmingming.com/tv/繁花.png" group-title="影视",繁花
-http://120.77.28.4:8648/huya.php?id=21059580
+http://159.75.85.63:35455/huya/21059580
 #EXTINF:-1 tvg-name="庆余年" tvg-logo="https://live.fanmingming.com/tv/庆余年.png" group-title="影视",庆余年
-http://120.77.28.4:8648/huya.php?id=11352960
+http://159.75.85.63:35455/huya/11352960
 #EXTINF:-1 tvg-name="芈月传" tvg-logo="https://live.fanmingming.com/tv/芈月传.png" group-title="影视",芈月传
-http://120.77.28.4:8648/huya.php?id=11352975
+http://159.75.85.63:35455/huya/11352975
 #EXTINF:-1 tvg-name="好先生" tvg-logo="https://live.fanmingming.com/tv/好先生.png" group-title="影视",好先生
-http://120.77.28.4:8648/huya.php?id=11602088
+http://159.75.85.63:35455/huya/11602088
 #EXTINF:-1 tvg-name="封神榜" tvg-logo="https://live.fanmingming.com/tv/封神榜.png" group-title="影视",封神榜
-http://120.77.28.4:8648/huya.php?id=23749096
+http://159.75.85.63:35455/huya/23749096
 #EXTINF:-1 tvg-name="寻秦记" tvg-logo="https://live.fanmingming.com/tv/寻秦记.png" group-title="影视",寻秦记
-http://120.77.28.4:8648/huya.php?id=23864973
+http://159.75.85.63:35455/huya/23864973
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://live.fanmingming.com/tv/鹿鼎记.png" group-title="影视",鹿鼎记
-http://120.77.28.4:8648/huya.php?id=23865080
+http://159.75.85.63:35455/huya/23865080
 #EXTINF:-1 tvg-name="洗冤录" tvg-logo="https://live.fanmingming.com/tv/洗冤录.png" group-title="影视",洗冤录
-http://120.77.28.4:8648/huya.php?id=23903130
+http://159.75.85.63:35455/huya/23903130
 #EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://live.fanmingming.com/tv/天龙八部.png" group-title="影视",天龙八部
-http://120.77.28.4:8648/huya.php?id=23903123
+http://159.75.85.63:35455/huya/23903123
 #EXTINF:-1 tvg-name="神雕侠侣" tvg-logo="https://live.fanmingming.com/tv/神雕侠侣.png" group-title="影视",神雕侠侣
-http://120.77.28.4:8648/huya.php?id=23865171
+http://159.75.85.63:35455/huya/23865171
 #EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://live.fanmingming.com/tv/笑傲江湖.png" group-title="影视",笑傲江湖
-http://120.77.28.4:8648/huya.php?id=23865142
+http://159.75.85.63:35455/huya/23865142
 #EXTINF:-1 tvg-name="九阴真经" tvg-logo="https://live.fanmingming.com/tv/九阴真经.png" group-title="影视",九阴真经
-http://120.77.28.4:8648/huya.php?id=23824164
+http://159.75.85.63:35455/huya/23824164
 #EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://live.fanmingming.com/tv/法证先锋.png" group-title="影视",法证先锋
-http://120.77.28.4:8648/huya.php?id=23863804
+http://159.75.85.63:35455/huya/23863804
 #EXTINF:-1 tvg-name="使徒行者" tvg-logo="https://live.fanmingming.com/tv/使徒行者.png" group-title="影视",使徒行者
-http://120.77.28.4:8648/huya.php?id=23734256
+http://159.75.85.63:35455/huya/23734256
 #EXTINF:-1 tvg-name="陀枪师姐" tvg-logo="https://live.fanmingming.com/tv/陀枪师姐.png" group-title="影视",陀枪师姐
-http://120.77.28.4:8648/huya.php?id=23860039
+http://159.75.85.63:35455/huya/23860039
 #EXTINF:-1 tvg-name="小李飞刀" tvg-logo="https://live.fanmingming.com/tv/小李飞刀.png" group-title="影视",小李飞刀
-http://120.77.28.4:8648/huya.php?id=11342417
+http://159.75.85.63:35455/huya/11342417
 #EXTINF:-1 tvg-name="龙门镖局" tvg-logo="https://live.fanmingming.com/tv/龙门镖局.png" group-title="影视",龙门镖局
-http://120.77.28.4:8648/huya.php?id=11352874
+http://159.75.85.63:35455/huya/11352874
 #EXTINF:-1 tvg-name="延禧攻略" tvg-logo="https://live.fanmingming.com/tv/延禧攻略.png" group-title="影视",延禧攻略
-http://120.77.28.4:8648/huya.php?id=26355864
+http://159.75.85.63:35455/huya/26355864
 #EXTINF:-1 tvg-name="康熙王朝" tvg-logo="https://live.fanmingming.com/tv/康熙王朝.png" group-title="影视",康熙王朝
-http://120.77.28.4:8648/huya.php?id=11352940
+http://159.75.85.63:35455/huya/11352940
 #EXTINF:-1 tvg-name="士兵突击" tvg-logo="https://live.fanmingming.com/tv/士兵突击.png" group-title="影视",士兵突击
-http://120.77.28.4:8648/huya.php?id=11342430
+http://159.75.85.63:35455/huya/11342430
 #EXTINF:-1 tvg-name="扫黑风暴" tvg-logo="https://live.fanmingming.com/tv/扫黑风暴.png" group-title="影视",扫黑风暴
-http://120.77.28.4:8648/huya.php?id=11342404
+http://159.75.85.63:35455/huya/11342404
 #EXTINF:-1 tvg-name="三国演义" tvg-logo="https://live.fanmingming.com/tv/三国演义.png" group-title="影视",三国演义
-http://120.77.28.4:8648/huya.php?id=11602081
+http://159.75.85.63:35455/huya/11602081
 #EXTINF:-1 tvg-name="陈翔六点半" tvg-logo="https://live.fanmingming.com/tv/陈翔六点半.png" group-title="影视",陈翔六点半
-http://120.77.28.4:8648/huya.php?id=11274154
+http://159.75.85.63:35455/huya/11274154
 #EXTINF:-1 tvg-name="乌龙闯情关" tvg-logo="https://live.fanmingming.com/tv/乌龙闯情关.png" group-title="影视",乌龙闯情关
-http://120.77.28.4:8648/huya.php?id=26355767
+http://159.75.85.63:35455/huya/26355767
 #EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://live.fanmingming.com/tv/倚天屠龙记.png" group-title="影视",倚天屠龙记
-http://120.77.28.4:8648/huya.php?id=11342403
+http://159.75.85.63:35455/huya/11342403
 #EXTINF:-1 tvg-name="神医喜来乐" tvg-logo="https://live.fanmingming.com/tv/神医喜来乐.png" group-title="影视",神医喜来乐
-http://120.77.28.4:8648/huya.php?id=11601978
+http://159.75.85.63:35455/huya/11601978
 #EXTINF:-1 tvg-name="小鱼儿与花无缺" tvg-logo="https://live.fanmingming.com/tv/小鱼儿与花无缺.png" group-title="影视",小鱼儿与花无缺
-http://120.77.28.4:8648/huya.php?id=29465867
+http://159.75.85.63:35455/huya/29465867
 #EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://live.fanmingming.com/tv/铁齿铜牙纪晓岚.png" group-title="影视",铁齿铜牙纪晓岚
-http://120.77.28.4:8648/huya.php?id=11342396
+http://159.75.85.63:35455/huya/11342396
 #EXTINF:-1 tvg-name="康熙微服私访记" tvg-logo="https://live.fanmingming.com/tv/康熙微服私访记.png" group-title="影视",康熙微服私访记
-http://120.77.28.4:8648/huya.php?id=11342418
+http://159.75.85.63:35455/huya/11342418
 #EXTINF:-1 tvg-name="我的团长我的团" tvg-logo="https://live.fanmingming.com/tv/我的团长我的团.png" group-title="影视",我的团长我的团
-http://120.77.28.4:8648/huya.php?id=11352910
+http://159.75.85.63:35455/huya/11352910
 #EXTINF:-1 tvg-name="我记得你眼里的依恋" tvg-logo="https://live.fanmingming.com/tv/我记得你眼里的依恋.png" group-title="音乐",我记得你眼里的依恋
 http://www.iesdouyin.com/aweme/v1/play/?video_id=v0d00fg10000cfqd3p3c77ubuek09d60&ratio=1080p&line=0
 #EXTINF:-1 tvg-name="BEYOND-血染的风采" tvg-logo="https://live.fanmingming.com/tv/BEYOND-血染的风采.png" group-title="音乐",BEYOND-血染的风采
